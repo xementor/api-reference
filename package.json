@@ -22,11 +22,12 @@
     "svix": "node -r dotenv/config -r ts-node/register src/svix.ts",
     "zbd": "node -r dotenv/config -r ts-node/register src/zbd.ts",
     "brex": "node -r dotenv/config -r ts-node/register src/brex.ts",
+    "mailgun": "node -r dotenv/config -r ts-node/register src/mailgun.ts",
     "dev:trigger": "trigger-cli dev --port 8080"
   },
   "dependencies": {
-    "@doist/todoist-api-typescript": "^3.0.0",
     "@discordjs/core": "^1.0.1",
+    "@doist/todoist-api-typescript": "^3.0.0",
     "@google-cloud/local-auth": "^2.1.0",
     "@hubspot/api-client": "^10.0.0",
     "@huggingface/inference": "^2.6.4",
@@ -38,6 +39,7 @@
     "deepl-node": "^1.10.2",
     "googleapis": "^105.0.0",
     "jsforce": "^1.11.1",
+    "mailgun.js": "^9.3.0",
     "oauth-1.0a": "^2.2.6",
     "octokit": "^3.1.1",
     "react": "^18.2.0",

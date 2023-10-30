@@ -19,8 +19,6 @@ const requestOptions: RequestInit = {
   }
 };
 
-
-
 client.defineJob({
   id: "snyk-get-my-user-details",
   name: "Snyk get my user details",
@@ -49,7 +47,6 @@ client.defineJob({
     );
   },
 });
-
 
 client.defineJob({
   id: "snyk-create-org",
@@ -85,9 +82,6 @@ client.defineJob({
     );
   },
 });
-
-
-
 
 // These lines can be removed if you don't want to use express
 import { createExpressServer } from "@trigger.dev/express";

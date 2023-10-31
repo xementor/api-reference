@@ -12,8 +12,8 @@ const createOrgEndpontUrl = `${process.env.SNYK_BASE_URL}/org`;
 const requestOptions: RequestInit = {
   headers: {
     "Content-Type": "application/json; charset=utf-8",
-    //To use this API, you must get your API token from Snyk.
-    //You can find your token in your General Account Settings on
+    // To use this API, you must get your API token from Snyk.
+    // You can find your token in your General Account Settings on
     // https://snyk.io/account/ after you register with Snyk and log in. See Authentication for API.
     "Authorization": `${process.env.SNYK_AUTH_TOKEN}`,
   }

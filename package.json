@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@discordjs/core": "^1.0.1",
-    "@doist/todoist-api-typescript": "^3.0.0",
+    "@doist/todoist-api-typescript": "^3.0.2",
     "@google-cloud/local-auth": "^2.1.0",
     "@hubspot/api-client": "^10.0.0",
     "@huggingface/inference": "^2.6.4",

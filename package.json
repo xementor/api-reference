@@ -39,7 +39,7 @@
     "asana": "^1.0.2",
     "deepl-node": "^1.10.2",
     "googleapis": "^105.0.0",
-    "jsforce": "^1.11.1",
+    "jsforce": "^3.1.0",
     "mailgun.js": "^9.3.0",
     "oauth-1.0a": "^2.2.6",
     "octokit": "^3.1.1",

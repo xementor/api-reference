@@ -40,7 +40,7 @@
     "deepl-node": "^1.10.2",
     "googleapis": "^105.0.0",
     "jsforce": "^1.11.1",
-    "mailgun.js": "^9.3.0",
+    "mailgun.js": "^10.2.4",
     "oauth-1.0a": "^2.2.6",
     "octokit": "^3.1.1",
     "react": "^18.2.0",

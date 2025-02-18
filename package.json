@@ -42,11 +42,11 @@
     "jsforce": "^1.11.1",
     "mailgun.js": "^9.3.0",
     "oauth-1.0a": "^2.2.6",
-    "octokit": "^3.1.1",
+    "octokit": "^4.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "svix": "^1.13.0",
-    "twilio": "^4.19.0",
+    "twilio": "^5.4.4",
     "zod": "^3.21.4"
   },
   "trigger.dev": {
